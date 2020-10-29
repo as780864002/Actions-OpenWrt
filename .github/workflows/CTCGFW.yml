@@ -21,7 +21,6 @@ on:
     schedule:
       - cron: 0 20 * * *
 
-#点☆Star触发开始编译
  watch:
 #    types: started
 
