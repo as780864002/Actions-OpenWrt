@@ -20,7 +20,6 @@ on:
         default: 'false'
     schedule:
       - cron: 0 20 * * *
-
  watch:
 #    types: started
 
